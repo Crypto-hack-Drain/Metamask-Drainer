@@ -1,4 +1,4 @@
-- Shop: https://crypto-hack.sellix.io/
+- Scripts Shop: https://crypto-hack.sellix.io/
 
 
 # *⛔ Beware of scams, this is the real repo*
