@@ -36,11 +36,6 @@ Exemple : If you change this value to 1, the script will only steal NFTs that ha
 - To see the metamask popup, you must host the website
 
 
-## `👻 Why it doesn't show my address?`
-
-This **NFT stealer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
-![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
-
 
 >>>> Shop URL - Shop: https://crypto-hack.sellix.io/ <<<<
 
