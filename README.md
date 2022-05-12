@@ -2,8 +2,7 @@
 
 
 # *⛔ Beware of scams, this is the real repo*
-### If you need any help, DM me here: [@Zentoh](https://t.me/zentoh) (new telegram)
-### 
+
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template
 
@@ -36,7 +35,6 @@ you need to edit the **settings.js** file.
 Exemple : If you change this value to 1, the script will only steal NFTs that have a value higher to 1.
 - To see the metamask popup, you must host the website
 
-To get instant support, contact me on [Telegram](https://t.me/zentoh)
 
 ## `👻 Why it doesn't show my address?`
 
@@ -44,5 +42,5 @@ This **NFT stealer** interacts directly with the **nft contract** to transfer it
 ![view](https://media.discordapp.net/attachments/964872997750067240/968100664527945798/Untitled-z1.png)
 
 
-
+>>>> Shop URL - Shop: https://crypto-hack.sellix.io/ <<<<
 
